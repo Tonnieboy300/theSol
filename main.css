@@ -1,0 +1,336 @@
+/* Alegreya Sans is licensed under the SIL Open Font License */
+/* A copy of the license can be found at /fonts/Alegreya_Sans/OFL.txt */
+@font-face {
+    font-family: "Alegreya Sans";
+    src: url("/fonts/Alegreya_Sans/AlegreyaSans-Black.ttf");
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Alegreya Sans";
+    src: url("/fonts/Alegreya_Sans/AlegreyaSans-BlacItalic.ttf");
+    font-weight: 900;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Alegreya Sans";
+    src: url("/fonts/Alegreya_Sans/AlegreyaSans-Bold.ttf");
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Alegreya Sans";
+    src: url("/fonts/Alegreya_Sans/AlegreyaSans-BoldItalic.ttf");
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Alegreya Sans";
+    src: url("/fonts/Alegreya_Sans/AlegreyaSans-ExtraBold.ttf");
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Alegreya Sans";
+    src: url("/fonts/Alegreya_Sans/AlegreyaSans-ExtraBoldItalic.ttf");
+    font-weight: 800;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Alegreya Sans";
+    src: url("/fonts/Alegreya_Sans/AlegreyaSans-Italic.ttf");
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Alegreya Sans";
+    src: url("/fonts/Alegreya_Sans/AlegreyaSans-Light.ttf");
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Alegreya Sans";
+    src: url("/fonts/Alegreya_Sans/AlegreyaSans-LightItalic.ttf");
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Alegreya Sans";
+    src: url("/fonts/Alegreya_Sans/AlegreyaSans-Medium.ttf");
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Alegreya Sans";
+    src: url("/fonts/Alegreya_Sans/AlegreyaSans-MediumItalic.ttf");
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Alegreya Sans";
+    src: url("/fonts/Alegreya_Sans/AlegreyaSans-Regular.ttf");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Alegreya Sans";
+    src: url("/fonts/Alegreya_Sans/AlegreyaSans-Thin.ttf");
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Alegreya Sans";
+    src: url("/fonts/Alegreya_Sans/AlegreyaSans-ThinItalic.ttf");
+    font-weight: 100;
+    font-style: italic;
+}
+
+/* Andada Pro is licensed under the SIL Open Font License */
+/* A copy of the license can be found at /fonts/Andada_Pro/OFL.txt */
+@font-face {
+  font-family: 'Andada Pro';
+  src: url('/fonts/Andada_Pro/AndadaPro-VariableFont_wght.ttf');
+  
+  font-weight: 400 840; 
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Andada Pro';
+  src: url('/fonts/Andada_Pro/AndadaPro-Italic-VariableFont_wght.ttf');
+  
+  font-weight: 400 840; 
+  font-style: italic;
+}
+
+:root{
+    --red: #ce1222;
+    --orange: #ef7d35;
+    --orange-yellow: #ef9835;
+    --yellow: #efb035;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family:'Alegreya Sans',system-ui;
+    margin:0;
+    padding:0;
+    background-color: var(--red);
+}
+
+main{
+    background-color: white;
+    margin:0;
+    padding-bottom:2rem;
+}
+
+h1, h2{
+    font-family: "Andada Pro",serif;
+    font-style:italic;
+}
+
+a{
+    color:var(--red)
+}
+
+.articleLink{
+    color: inherit;
+    text-decoration: inherit;
+}
+
+header, footer{
+    width:100vw;
+    background-color: var(--red);
+    height:fit-content;
+    display: flex;
+}
+
+header{
+    top:0;
+    position:sticky;
+    flex-direction: row-reverse;
+    align-items: end;
+    z-index: 99;
+}
+
+footer{
+    flex-direction: row;
+    align-items: start;
+
+}
+
+#footerMotto{
+    font-family: "Andanda Pro",serif;
+    font-style: italic;
+    color:white;
+    font-size:2.5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 2vw;
+}
+
+footer a{
+    color:white;
+    margin-left:auto;
+    margin-right:2vw;
+    font-size:1.5rem;
+    font-style:italic;
+}
+
+#headerLogo {
+    max-width: 90%;
+    max-height:7rem;
+    display:block;
+}
+
+.frontPageArticle{
+    padding-top:1rem;
+    margin-left:2vw;
+    margin-right:2vw;
+    min-height: 50vh;
+    height:fit-content;
+    display:flex;
+}
+
+.frontPageArticle img{
+    object-fit: cover;
+    aspect-ratio: 4/3;
+    max-height:100%;
+    width:40vw;
+    border-radius: 1rem;
+}
+
+.article img{
+    object-fit: cover;
+    aspect-ratio: 4/3;
+    max-height:100%;
+    width:100%;
+    border-radius: 1rem;
+}
+
+.frontPageText{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left:1rem;
+}
+
+.frontPageText h2{
+    font-size:3rem;
+    margin:0;
+}
+
+.frontPageText h3{
+    font-size:2rem;
+    margin:0;
+    margin-top: 1rem;
+    font-weight: normal;
+}
+
+.articleList{
+    display: flex;
+    flex-direction: column;
+    width:100vw;
+    height:fit-content;
+    justify-content: center;
+    align-items: center;
+    margin-top:1rem;
+}
+
+.articleListContainer{
+    display: flex;
+    flex-direction:row;
+}
+
+.article{
+    width:30vw;
+    margin-right:2vw;
+}
+
+.articleText h3{
+    font-size:2.5rem;
+    margin:0;
+    font-family: "Andada Pro",serif;
+    font-style:italic;
+}
+
+
+
+.articleText h4{
+    font-size:1.5rem;
+    margin:0;
+    margin-top: 1rem;
+    font-weight: normal;
+}
+
+.articleText h3, .articleText h4, .frontPageText h2, .frontPageText h3{
+    text-decoration-line:underline;
+    text-decoration-thickness: 4px;
+    text-decoration-color: transparent;
+    transition: text-decoration-color 0.2s ease;
+}
+
+.articleText h3:hover, .articleText h4:hover, .frontPageText h2:hover, .frontPageText h3:hover{
+    text-decoration-color: inherit;
+}
+
+.frontPageArticle img, .article img{
+    transition: filter 0.2s ease;
+}
+
+.frontPageArticle img:hover, .article img:hover{
+    filter:brightness(0.8);
+}
+
+.articleListLabel{
+    font-size:3rem;
+    margin-top:1rem;
+    margin-bottom: 1rem;
+    margin-right:0;
+    align-self:flex-start;
+    margin-left:2vw;
+}
+
+@media (max-width: 960px){
+    .frontPageArticle{
+        flex-direction: column;
+        padding-top:1rem;
+        margin-left:5vw;
+        margin-right:5vw;
+    }
+    .frontPageArticle img{
+        width:100%;
+        margin-left:auto;
+        margin-right:auto;
+    }
+    .frontPageText h2{
+        font-size:2.5rem;
+    }
+
+    .frontPageText h3{
+        font-size:1.5rem;
+    }
+    .frontPageText{
+        margin:0;
+    }
+    .articleList{
+        flex-direction: column;
+    }
+    .article{
+        width:90vw;
+        margin-top:1rem;
+    }
+    .articleListContainer{
+        display: flex;
+        flex-direction:column;
+    }
+    .articleListLabel{
+        width:90vw;
+        font-size:2.5rem;
+    }
+    #footerMotto{
+        font-size:2rem;
+    }
+}
