@@ -5,14 +5,17 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="preload" href="/main.css" as="style">
         <link rel="stylesheet" href="/main.css">
+        <title>The Sol</title>
     </head>
     <body>
         <header>
             <h1 style="display:none;">The Sol</h1>
-            <img id="headerLogo" src="/images/logos/theSol_FullColor_WhiteText.svg" alt="The Sol">
+            <a href="/">
+                <img id="headerLogo" src="/images/logos/theSol_FullColor_WhiteText.svg" alt="The Sol">
+            </a>
         </header>
         <main>
-            <a href="#" class="articleLink">
+            <a href="/articleTemplate.html" class="articleLink">
                 <div class="frontPageArticle">
                     <img src="/images/guyFallingDownStairs.jpg" alt="A man falling down the stairs">
                     <div class="frontPageText">
@@ -28,7 +31,7 @@
                     <!-- <a href="#" class="articleLink">
                         <div class="article">
                             <img src="/images/guyFallingDownStairs.jpg" alt="A man falling down the stairs">
-                            <div class="articleText">
+                            <div class="articleLinkText">
                                 <h3>Another Man Falls Down Stairs</h3>
                                 <h4>Youch, youch youch</h4>
                             </div>
@@ -37,7 +40,7 @@
                     <a href="#" class="articleLink">
                         <div class="article">
                             <img src="/images/guyFallingDownStairs.jpg" alt="A man falling down the stairs">
-                            <div class="articleText">
+                            <div class="articleLinkText">
                                 <h3>Another Man Falls Down Stairs</h3>
                                 <h4>Falling down three stories, he is lucky to be alive.</h4>
                             </div>
@@ -46,7 +49,7 @@
                     <a href="#" class="articleLink">
                         <div class="article">
                             <img src="/images/guyFallingDownStairs.jpg" alt="A man falling down the stairs">
-                            <div class="articleText">
+                            <div class="articleLinkText">
                                 <h3>Another Man Falls Down Stairs</h3>
                                 <h4>"Yeah, this guy's fine" says Department of Health director.</h4>
                             </div>
@@ -55,7 +58,7 @@
                     <a href="#" class="articleLink">
                         <div class="article">
                             <img src="/images/guyFallingDownStairs.jpg" alt="A man falling down the stairs">
-                            <div class="articleText">
+                            <div class="articleLinkText">
                                 <h3>Another Man Falls Down Stairs</h3>
                                 <h4>Said "Bazinga! It hurts so much!" according to witnesses.</h4>
                             </div>
@@ -65,7 +68,13 @@
             </div>
         </main>
         <footer>
-            <p id="footerMotto">Proxima evolutio&nbsp;hominis</p>
+            <div>
+                <p id="footerMotto">Proxima evolutio&nbsp;hominis</p>
+                <ul>
+                    <li><a href="/about.html">About</a></li>
+                    <li><a href="/">Front Page</a></li>
+                </ul>
+            </div>
             <a href="#"><p>Back to top</p></a>
         </footer>
     </body>
