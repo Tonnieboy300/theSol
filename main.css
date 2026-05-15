@@ -131,6 +131,10 @@ h1, h2{
     font-style:italic;
 }
 
+h1 i, h2 i{
+    font-style:normal;
+}
+
 a{
     color:var(--red)
 }
