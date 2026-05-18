@@ -139,7 +139,7 @@ a{
     color:var(--red)
 }
 
-.articleLink, .advertLink{
+.articleLink, .fakeAdLink{
     color: inherit;
     text-decoration: inherit;
 }
@@ -278,7 +278,7 @@ footer a{
     margin-right:2vw;
 }
 
-.advert{
+.fakeAd{
     width: 30vw;
     height:100%;
     margin:0 2vw 0 0 ;
@@ -441,11 +441,11 @@ iframe{
     .articleList{
         flex-direction: column;
     }
-    .article, .advert{
+    .article, .fakeAd{
         width:90vw;
         margin-top:1rem;
     }
-    .advertLink{
+    .fakeAdLink{
         margin:0;
         padding: 1rem 0 1rem 0;
         height:60vh;
