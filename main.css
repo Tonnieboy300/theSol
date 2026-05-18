@@ -139,7 +139,7 @@ a{
     color:var(--red)
 }
 
-.articleLink{
+.articleLink, .advertLink{
     color: inherit;
     text-decoration: inherit;
 }
@@ -278,6 +278,12 @@ footer a{
     margin-right:2vw;
 }
 
+.advert{
+    width: 30vw;
+    height:100%;
+    margin:0 2vw 0 0 ;
+}
+
 .articleLinkText h3{
     font-size:2.5rem;
     margin:0;
@@ -405,6 +411,11 @@ footer a{
     line-height:1.618;
 }
 
+iframe{
+    border-style:none;
+    border-radius: 1rem;
+}
+
 @media (max-width: 960px){
     .frontPageArticle{
         flex-direction: column;
@@ -430,9 +441,14 @@ footer a{
     .articleList{
         flex-direction: column;
     }
-    .article{
+    .article, .advert{
         width:90vw;
         margin-top:1rem;
+    }
+    .advertLink{
+        margin:0;
+        padding: 1rem 0 1rem 0;
+        height:60vh;
     }
     .articleListContainer{
         display: flex;
