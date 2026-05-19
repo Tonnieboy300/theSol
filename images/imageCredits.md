@@ -15,3 +15,5 @@
 [boxStack.jpg](https://unsplash.com/photos/cardboard-box-lot-fyaTq-fIlro) by [CHUTTERSNAP](https://unsplash.com/@chuttersnap) on Unsplash under the Unsplash license
 
 [salt.jpg](https://unsplash.com/photos/brown-and-black-stones-in-close-up-photography-pFpPRuR4pd4) by [Jane Gonzalez](https://unsplash.com/@janegonz) on Unsplash under the Unsplash license
+
+[glassesWoman.jpg](https://unsplash.com/photos/young-woman-with-curly-hair-and-glasses-looks-forward-CdzlOxIl2pU) by [Vitaly Gariev](https://unsplash.com/@silverkblack) on Unsplash under the Unsplash license
