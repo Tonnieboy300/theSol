@@ -10,10 +10,12 @@
 
 [marsRover.jpg](https://commons.wikimedia.org/wiki/File:Thinktank_-_minature_mars_rover.jpeg) by [Mike Peel](https://www.mikepeel.net/), licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en), via Wikimedia Commons.
 
-[sodaGlass.jpg](https://unsplash.com/photos/clear-drinking-glass-with-red-liquid-IHKR_A_THW0) by [Giovanna Gomes](https://unsplash.com/@giisilveira) on Unsplash under the Unsplash license
+[sodaGlass.jpg](https://unsplash.com/photos/clear-drinking-glass-with-red-liquid-IHKR_A_THW0) by [Giovanna Gomes](https://unsplash.com/@giisilveira) on Unsplash under the Unsplash license.
 
-[boxStack.jpg](https://unsplash.com/photos/cardboard-box-lot-fyaTq-fIlro) by [CHUTTERSNAP](https://unsplash.com/@chuttersnap) on Unsplash under the Unsplash license
+[boxStack.jpg](https://unsplash.com/photos/cardboard-box-lot-fyaTq-fIlro) by [CHUTTERSNAP](https://unsplash.com/@chuttersnap) on Unsplash under the Unsplash license.
 
-[salt.jpg](https://unsplash.com/photos/brown-and-black-stones-in-close-up-photography-pFpPRuR4pd4) by [Jane Gonzalez](https://unsplash.com/@janegonz) on Unsplash under the Unsplash license
+[salt.jpg](https://unsplash.com/photos/brown-and-black-stones-in-close-up-photography-pFpPRuR4pd4) by [Jane Gonzalez](https://unsplash.com/@janegonz) on Unsplash under the Unsplash license.
 
-[glassesWoman.jpg](https://unsplash.com/photos/young-woman-with-curly-hair-and-glasses-looks-forward-CdzlOxIl2pU) by [Vitaly Gariev](https://unsplash.com/@silverkblack) on Unsplash under the Unsplash license
+[glassesWoman.jpg](https://unsplash.com/photos/young-woman-with-curly-hair-and-glasses-looks-forward-CdzlOxIl2pU) by [Vitaly Gariev](https://unsplash.com/@silverkblack) on Unsplash under the Unsplash license.
+
+[factory.jpg](https://unsplash.com/photos/interior-of-large-industrial-factory-SLIFI67jv5k) by [Ant Rozetsky](https://unsplash.com/@rozetsky) on Unsplash under the Unsplash license.
