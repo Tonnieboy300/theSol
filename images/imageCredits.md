@@ -13,3 +13,5 @@
 [sodaGlass.jpg](https://unsplash.com/photos/clear-drinking-glass-with-red-liquid-IHKR_A_THW0) by [Giovanna Gomes](https://unsplash.com/@giisilveira) on Unsplash under the Unsplash license
 
 [boxStack.jpg](https://unsplash.com/photos/cardboard-box-lot-fyaTq-fIlro) by [CHUTTERSNAP](https://unsplash.com/@chuttersnap) on Unsplash under the Unsplash license
+
+[salt.jpg](https://unsplash.com/photos/brown-and-black-stones-in-close-up-photography-pFpPRuR4pd4) by [Jane Gonzalez](https://unsplash.com/@janegonz) on Unsplash under the Unsplash license
