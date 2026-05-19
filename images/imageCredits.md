@@ -19,3 +19,5 @@
 [glassesWoman.jpg](https://unsplash.com/photos/young-woman-with-curly-hair-and-glasses-looks-forward-CdzlOxIl2pU) by [Vitaly Gariev](https://unsplash.com/@silverkblack) on Unsplash under the Unsplash license.
 
 [factory.jpg](https://unsplash.com/photos/interior-of-large-industrial-factory-SLIFI67jv5k) by [Ant Rozetsky](https://unsplash.com/@rozetsky) on Unsplash under the Unsplash license.
+
+[groupOfPeople.jpg](https://unsplash.com/photos/group-of-people-in-a-hallway-f1jXOop1nhY) by [Jinsheng Bian](https://unsplash.com/@jinshengbian) on Unsplash under the Unsplash license.
