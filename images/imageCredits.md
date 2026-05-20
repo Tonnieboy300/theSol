@@ -29,3 +29,5 @@
 [soccer.jpg](https://unsplash.com/photos/a-person-kicking-a-soccer-ball-on-a-field-5w7EoYLbRC0) by [Omar Ramadan](https://unsplash.com/@omarvellous14) on Unsplash under the Unsplash license. Cropped for framing.
 
 [rocketLaunch.jpg](https://unsplash.com/photos/space-shuttle-challenger-launches-from-kennedy-space-center-dCgbRAQmTQA) by [NASA](https://unsplash.com/@nasa) on Unsplash under the Unsplash license. Cropped for framing.
+
+[trumpCouncil.webp](https://www.nasa.gov/wp-content/uploads/2017/06/35250462190_342f96eede_o.jpg) sourced from a [NASA press release](https://www.nasa.gov/news-release/nasa-statement-on-national-space-council/). 2017, by NASA/Aubrey Gemignani, Public Domain.
